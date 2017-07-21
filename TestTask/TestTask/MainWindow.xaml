@@ -1,0 +1,24 @@
+﻿<Window x:Class="TestTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestTask"
+        xmlns:myControls="clr-namespace:TestTask.Controls" 
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="720" Background="#FF88C0F9">
+    <Grid Margin="0">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <myControls:intervalCalendar x:Name="intervalCalendar" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="260" Height="24"
+                                     Grid.Row="0" Grid.Column="0"/>
+        <Label x:Name="lable" Content="" Margin="10,10,0,0" VerticalAlignment="Top" Width="336"
+               Grid.Row="0" Grid.Column="1" FontSize="16" FontFamily="Calibri"/>
+        <Button x:Name="button" Grid.Column="1" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top" Width="336" Height="26" Click="button_Click"/>
+    </Grid>
+</Window>

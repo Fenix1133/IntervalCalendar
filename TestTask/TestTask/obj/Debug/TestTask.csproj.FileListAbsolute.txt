@@ -1,0 +1,18 @@
+C:\Users\Пользователь\AppData\Local\Temporary Projects\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\bin\Debug\TestTask.exe
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\Controls\intervalCalendar.g.cs
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\App.g.cs
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\Controls\intervalCalendar.baml
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\TestTask.g.resources
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\TestTask.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\TestTask.exe
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\TestTask.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\TestTask\TestTask\obj\Debug\Controls\Style.baml
